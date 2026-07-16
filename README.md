@@ -17,7 +17,7 @@ Demo Video :
 
 This project demonstrates a complete end-to-end Cloud Demand Forecasting & Capacity Optimization system built using Azure Data Factory, Azure Databricks, Azure Data Lake Gen2, and Power BI.
 
-It shows how large-scale enterprise data — coming from Snowflake, Amazon S3, and REST APIs — can be collected, unified, cleaned, modeled, and visualized using a fully scalable cloud architecture.
+It shows how large-scale enterprise data — coming from Snowflake, GCP, and REST APIs — can be collected, unified, cleaned, modeled, and visualized using a fully scalable cloud architecture.
 
 The system helps cloud service providers or internal cloud teams to:
 
